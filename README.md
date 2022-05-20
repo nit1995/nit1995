@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nit1995
-- 👀 I’m interested in building IoT platforms, Power Electronics and Smart Grids
+- 👀 I’m interested in building IoT platforms, Power Electronic Converters and Smart Grids
 - 📫 You can mail me on nshanbog.1@gmail.com  
 
 <!---
